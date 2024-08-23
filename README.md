@@ -21,5 +21,9 @@ Tableau was used to visualize year-on-year resolution percentage across differen
 The above visualizations clearly showed the growing disparity in resolved and unresolved crimes on the basis of different attributes like location, premise, weapon use, race and age.
 
 ### Model
+![image](https://github.com/user-attachments/assets/5ebc933c-b511-49bd-a58d-230c5f18f0ba)
+![image](https://github.com/user-attachments/assets/4b0c4cfd-a676-4026-b621-e1ca9b1990ed)
+![image](https://github.com/user-attachments/assets/3e98452e-1879-4a53-b032-4955d6ff9d51)
+
 
 

@@ -1,5 +1,5 @@
 # Predicting Crime Resolution in LA
-Supervised ML model trained on LAPD data with attributes like crime location and time of occurance along with victim details. Random Forest and XGBoost algorithms used to determine if a given crime will remain unresolved along with the probabilty of resolution.
+Supervised ML model(classification) trained on LAPD data with attributes like crime location and time of occurance along with victim details. Random Forest and XGBoost algorithms used to determine if a given crime will remain unresolved along with the probabilty of resolution.
 ### Data
 ![image](https://github.com/user-attachments/assets/b14a7b30-0390-4e68-984b-bc144bfd6c24)
 

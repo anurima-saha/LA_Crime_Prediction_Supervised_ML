@@ -14,7 +14,7 @@ Supervised ML model(classification) trained on LAPD data with attributes like cr
 <br>
 Tableau was used to visualize year-on-year resolution percentage across different counties of LA. Refer to link for intercative graph.
 
-### Analysis based on Victim deatils ([link](https://public.tableau.com/app/profile/anurima.saha/viz/WEAPONUSEANDRACE/VICTIMDEMOGRAPHICS))
+### Analysis based on Victim details ([link](https://public.tableau.com/app/profile/anurima.saha/viz/WEAPONUSEANDRACE/VICTIMDEMOGRAPHICS))
 ![image](https://github.com/user-attachments/assets/a9702507-28af-4a7b-b668-aa71869ed0bd)
 <br>
 <br>
